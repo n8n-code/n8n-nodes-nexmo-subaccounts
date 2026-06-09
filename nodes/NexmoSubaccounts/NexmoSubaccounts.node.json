@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevNexmoSubaccounts",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-nexmo-subaccounts"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-nexmo-subaccounts?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
