@@ -8,7 +8,7 @@ import type {
 export class NexmoSubaccountsApi implements ICredentialType {
 	name = 'N8nDevNexmoSubaccountsApi';
 
-	displayName = 'nexmo-subaccounts API';
+	displayName = 'Nexmo Subaccounts API';
 
 	icon: Icon = { light: 'file:../nodes/NexmoSubaccounts/nexmo-subaccounts.svg', dark: 'file:../nodes/NexmoSubaccounts/nexmo-subaccounts.dark.svg' };
 
@@ -22,7 +22,7 @@ export class NexmoSubaccountsApi implements ICredentialType {
 			default: 'https://api.nexmo.com/accounts',
 			required: true,
 			placeholder: 'https://api.nexmo.com/accounts',
-			description: 'The base URL of your nexmo-subaccounts API server',
+			description: 'The base URL of your Nexmo Subaccounts API server',
 		},
 		{
 			displayName: 'API Key',

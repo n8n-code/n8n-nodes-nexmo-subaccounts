@@ -53,10 +53,26 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Subaccount Management | Get retrieve list of subaccounts, Post create subaccount, Get retrieve a subaccount, Patch modify a subaccount |
-| Transfers | Get retrieve list of balance transfers, Post transfer balance, Get retrieve list of credit transfers, Post transfer credit, Post transfer number |
+<details>
+<summary><b>Subaccount Management</b> (4 operations)</summary>
+
+- Get Retrieve list of subaccounts
+- Post Create subaccount
+- Get Retrieve a subaccount
+- Patch Modify a subaccount
+
+</details>
+
+<details>
+<summary><b>Transfers</b> (5 operations)</summary>
+
+- Get Retrieve list of balance transfers
+- Post Transfer balance
+- Get Retrieve list of credit transfers
+- Post Transfer credit
+- Post Transfer number
+
+</details>
 
 ---
 

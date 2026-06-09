@@ -97,7 +97,7 @@ export const transfersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api_key",
 			"required": true,
 			"description": "ID of the primary account.",
@@ -235,7 +235,7 @@ export const transfersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api_key",
 			"required": true,
 			"description": "ID of the primary account",
@@ -396,7 +396,7 @@ export const transfersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api_key",
 			"required": true,
 			"description": "ID of the primary account.",
@@ -534,7 +534,7 @@ export const transfersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api_key",
 			"required": true,
 			"description": "ID of the primary account",
@@ -695,7 +695,7 @@ export const transfersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api_key",
 			"required": true,
 			"description": "ID of the primary account.",

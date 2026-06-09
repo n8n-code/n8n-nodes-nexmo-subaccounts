@@ -4,14 +4,14 @@ import { transfersDescription } from './resources/transfers';
 
 export class NexmoSubaccounts implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'nexmo-subaccounts',
+		displayName: 'Nexmo Subaccounts',
 		name: 'N8nDevNexmoSubaccounts',
 		icon: { light: 'file:./nexmo-subaccounts.svg', dark: 'file:./nexmo-subaccounts.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Subaccounts API enables you to create subaccounts under your primary account. Subaccounts facilitate differential product configuration, reporting, and billing. The Subaccounts API is released ..',
-		defaults: { name: 'nexmo-subaccounts' },
+		defaults: { name: 'Nexmo Subaccounts' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

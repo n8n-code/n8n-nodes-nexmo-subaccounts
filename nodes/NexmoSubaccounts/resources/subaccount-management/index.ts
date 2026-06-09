@@ -85,7 +85,7 @@ export const subaccountManagementDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api_key",
 			"required": true,
 			"description": "ID of the primary account",
@@ -147,7 +147,7 @@ export const subaccountManagementDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api_key",
 			"required": true,
 			"description": "ID of the primary account",
@@ -282,7 +282,7 @@ export const subaccountManagementDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api_key",
 			"required": true,
 			"description": "ID of the primary account",
@@ -362,7 +362,7 @@ export const subaccountManagementDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Api Key",
+			"displayName": "API Key",
 			"name": "api_key",
 			"required": true,
 			"description": "ID of the primary account",

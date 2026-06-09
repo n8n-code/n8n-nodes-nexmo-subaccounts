@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-nexmo-subaccounts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Subaccounts API enables you to create subaccounts under your primary account. Subaccounts facilitate differential product configuration, reporting, and billing. The Subaccounts API is released ..",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-nexmo-subaccounts",
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "nexmo-subaccounts"
